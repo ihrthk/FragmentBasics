@@ -1,0 +1,2 @@
+D:\studio_workspace\FragmentBasics\app\build\intermediates\classes\debug
+D:\studio_workspace\FragmentBasics\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-da7f6d4a2578328f7d18a9b32b1daa8a6a532adf.jar
